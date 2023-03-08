@@ -94,7 +94,7 @@ Por esse módulo ser mais extensivo, e com assuntos que tangenciam menos o que j
 
 ---
 
-### Desenvolvimento Técnico
+### Aprofundamento de Conceitos Introdutórios
 
 - [ ] Introdução à Ciência da Computação com Python II
 
@@ -408,4 +408,11 @@ Esses dois eu acredito que se encaixam bem, até porque podemos estudar compilad
 
 ### Observações
 
-Nada do que eu estimei de tempo de cada Período foi baseado em alguma metrica ou estatistica, foi puramente um junte baseado no que eu acredito que dê para fazer, é possível que dure mais ou menos cada periodo, porém não tem como prever o ritmo de cada pessoa ou grupo, apenas fique atento em manter uma consistência nos estudos.
+Nada do que eu estimei de tempo de cada Período foi baseado em nenhuma metrica ou estatistica, foi puramente um junte baseado no que eu acredito que dê para fazer, é possível que dure mais ou menos cada periodo, porém não tem como prever o ritmo de cada pessoa ou grupo, apenas fique atento em manter uma consistência nos estudos.
+
+## Referências
+
+- [Universidade Livre](https://github.com/Universidade-Livre/ciencia-da-computacao)
+- [OSSU](https://github.com/ossu/computer-science)
+- [Canal do Fabio Akita](https://www.youtube.com/@Akitando)
+- [Canal do Manual do Codigo](https://www.youtube.com/@ManualdoCodigo)
